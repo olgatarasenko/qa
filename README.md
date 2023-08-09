@@ -16,17 +16,17 @@ API, REST, Postman, ApiDoc, Swagger, PostgreSQL, Android Studio, Jira, YouTrack,
 Мои проектные работы в тестировании: 
 
 Чек листы:
-1. [Применение техник тест дизайна: классы эквивалетности и граничные значения, составление чек листа проверок для тестировании валидации полей](https://github.com/olgatarasenko/qa/files/12269197/default.xlsx)
-2. [Чек лист проверок новой функиональности мобильного приложения и результаты тестирования проведенного с помощью эмулятора Android Studio](https://github.com/olgatarasenko/qa/files/12269204/default.xlsx)
+1. [Применение техник тест дизайна: классы эквивалетности и граничные значения, составление чек листа проверок валидации полей](https://github.com/olgatarasenko/qa/files/12269197/default.xlsx)
+2. [Чек лист проверок новой функиональности мобильного приложения и результаты тестирования проведенного в Android Studio](https://github.com/olgatarasenko/qa/files/12269204/default.xlsx)
 3. [Чек лист проверок новой версии API переданной на тестирование, и результаты тестирования проведенного в Postman](https://github.com/olgatarasenko/qa/files/12269210/API.xlsx)
 4. [Чек листы проверок верстки и логики новой функциональности, кроссбраузерное тестирование и тестирование адаптивности](https://github.com/olgatarasenko/qa/files/12289650/default.xlsx)
-5. [Чек лист проверок новой функиональности на фронтенде с помощью анализатора трафика Сharles ](https://github.com/olgatarasenko/qa/files/12289887/default.xlsx)
+5. [Чек лист проверок новой функиональности с помощью анализатора трафика Сharles ](https://github.com/olgatarasenko/qa/files/12289887/default.xlsx)
 6. [Чек лист тестирования API](https://github.com/olgatarasenko/qa/files/12290154/API.xlsx)
 7. [Чек лист проверки верстки и логики работы веб приложения](https://github.com/olgatarasenko/qa/files/12290180/default.xlsx)
 8. [Чек лист проверок на валидацию полей](https://github.com/olgatarasenko/qa/files/12290205/default.xlsx)
 
 Тест кейсы:
-1. [Тест кейсы на тестирование логики функиональности](https://github.com/olgatarasenko/qa/files/12289850/1.xlsx)
+1. [Тест кейсы на проверку логики функиональности](https://github.com/olgatarasenko/qa/files/12289850/1.xlsx)
 2. [Тест кейсы проверки мобильного приложения.xlsx](https://github.com/olgatarasenko/qa/files/12290277/default.xlsx)
 
 [Работа с консолью и PostgreSQL](https://github.com/olgatarasenko/qa/files/12289989/default.pdf)
