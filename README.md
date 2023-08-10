@@ -8,7 +8,8 @@
 STACK: Functional Testing, Manual Testing, Documentation, DevTools, JSON, XML, HTML, Charles, 
 API, REST, Postman, ApiDoc, Swagger, PostgreSQL, Android Studio, Jira, YouTrack, Figma, Swift, Xcode
 
-[Mое резюме в PDF](https://github.com/olgatarasenko/qa/files/12296277/Olga.s.Resume.1.pdf)
+[Mое резюме в PDF](https://github.com/olgatarasenko/qa/files/12313831/Olga.s.Resume.1.pdf)
+
 
 [Мое резюме на hh.ru](https://github.com/olgatarasenko/qa/files/12296287/default.pdf)
 
